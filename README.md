@@ -1,0 +1,2 @@
+# bakery-mockup
+This is a React-based website app for a an imaginary French Bakery ("La Petite Bakery" in this case). This web app features an online ordering system using Gloriafoods API. The site also contains a full menu divided into different sections, with their own price figures and images: Breads, Croissants, Pastries, and Desserts. La Petite Bakery website is fully responsive in design and offers social media sharing, embedded Google maps API, and contact information for the local business.
